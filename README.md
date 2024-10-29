@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name's Sean and I'm a Software Developer based out of New England, USA.
+I love all kinds of technology, but currently focusing interests on Javascript frameworks.
+
+Feel free to follow me, I'm happy to follow back and like to connect with others interested in the same things!
 
 
 <!--
