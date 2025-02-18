@@ -1,6 +1,9 @@
 ## Hi there 👋
 My name's Sean and I'm a Developer based out of New England, USA.
-Lova all kinds of technology. Recently working with JS and Python.
+<br>
+Lova all kinds of technology. 
+<br>
+Recently working with JS and Python.
 
 
 
