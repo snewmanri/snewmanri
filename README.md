@@ -3,7 +3,7 @@ My name's Sean and I'm a Developer based out of New England, USA.
 <br>
 Lova all kinds of technology. 
 <br>
-Recently working with JS and Python.
+JS, C#, Python
 
 
 
