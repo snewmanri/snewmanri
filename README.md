@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name's Sean and I'm a Developer based out of New England, USA.
 <br>
-Lova all kinds of technology. 
+I love technology and coding.
 <br>
-JS, C#, Python
+Proficient in Javascript + its ecosystem (react, next.js, angular), Python, PHP and more.
 
 
 
